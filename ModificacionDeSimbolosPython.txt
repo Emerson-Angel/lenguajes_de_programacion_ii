@@ -1,0 +1,15 @@
+Modificación de Símbolos Python
+
+simbolo     -> nuevo simbolo  -> definicion                 -> ejemplo
+
+=           -> asig           -> simbolo de asignación      -> x asig 10
++           -> mas            -> simbolo de suma            -> resultado asig a mas b
+-           -> menos          -> simbolo de resta           -> resultado asig a menos b
+*           -> por            -> simbolo de multiplicación  -> resultado asig a por b
+/           -> entre          -> simbolo de división        -> resultado asig a entre b
+print()     -> imprimir       -> función de imprimir        -> imprimir("Hola, mundo!")
+==          -> es_igual       -> simbolo de igualdad        -> if a es_igual b:
+!=          -> no_es_igual    -> simbolo de desigualdad     -> if a no_es_igual b:
+>           -> mayor_que      -> simbolo de mayor que       -> if a mayor_que b:
+<           -> menor_que      -> simbolo de menor que       -> if a menor_que b:
+      
